@@ -1,7 +1,7 @@
 #!/bin/bash
-a=1
-b=13
+#a=12
+#b=13
 sum=$(a+$b)
-echo $sum
+#echo $sum
 
 
